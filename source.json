@@ -3,7 +3,7 @@
   "identifier": "com.Justavmguy.StarCatcher",
   "subtitle": "Official source for StarCatcher",
   "description": "Download and update StarCatcher directly via AltStore.",
-  "website": "https://github.com",
+  "website": "https://justavmguy.github.com/StarCatcher",
   "tintColor": "#007AFF",
   "featuredApps": [
     "devplaceholder.KCG0GRPX.starCatcher"
@@ -24,7 +24,7 @@
           "buildVersion": "1",
           "date": "2026-11-23",
           "localizedDescription": "Initial release.",
-          "downloadURL": "https://github.com/releases/download/v1.0/StarCatcher.ipa",
+          "downloadURL": "https://github.com/Justavmguy/StarCatcher/releases/download/v1.0/StarCatcher.ipa",
           "size": 5600000
         }
       ],
